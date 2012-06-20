@@ -1,7 +1,7 @@
-Open Source Greek-English Septuagint Bible
-==========================================
+Open Source Greek-English Diglot Bible
+======================================
 
-The Law, Prophets, and Apostles in the Greek Septuagint, Brenton English OT, and ASV English NT. Public domain.
+The Law, Prophets, and Apostles in the Greek Septuagint (LXX) Old Testament, LXX2012 English Old Testament, Westcott and Hort New Testament, and ASV English New Testament. Public domain.
 
 
 How to Contribute
@@ -18,7 +18,7 @@ How to Contribute
 7. Click clone button (you now have a copy of the project on your computer)
 8. Right click and select "open in explorer" (*this is a windows instruction, don't know about Mac*)
 
-**You should see all the files.** As of right now, it is only Genesis and Exodus.
+**You should see all the files.** As of right now, it is only Genesis and Exodus, and the LXX2012.
 
 
 ## Saving Changes ##
